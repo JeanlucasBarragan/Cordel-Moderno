@@ -8,10 +8,6 @@
 body {
     background-color: blanchedalmond;
     text-align: center;
-    
-}
-
-div#imagem {
     background-image: url('../Cordel-Moderno/imagens/background001.jpg');
-    background-size: cover;
+    
 }
