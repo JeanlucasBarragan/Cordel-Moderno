@@ -29,7 +29,7 @@ header h1 {
     padding-top: 50px;
     font-variant: small-caps;
     font-family: var(--fonte2);
-    font-size: 10vw;
+    font-size: 6vw;
     
     /*
      letras maiusculas no css
@@ -90,10 +90,12 @@ section.imagem > p {
 
 section#img01 {
    background: url('../Cordel-Moderno/imagens/background001.jpg') center center no-repeat fixed;
+   background-size: contain;
 }
 
 section#img02 {
    background: url('../Cordel-Moderno/imagens/background002.jpg') bottom right no-repeat fixed;
+   background-size: contain;
 }
 
 footer {
